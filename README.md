@@ -1,3 +1,3 @@
 # flutter-first-study
 
-공부한대로 업데이트
+공부하는대로 업데이트
